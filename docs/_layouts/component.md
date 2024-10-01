@@ -1,1 +1,6 @@
-Layout for cb components
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+
+{{ content }}
