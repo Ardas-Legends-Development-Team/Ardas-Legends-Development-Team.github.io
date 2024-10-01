@@ -7,6 +7,16 @@ description: A wiki for the Arda´s Legends System
 collections:
   staff:
     output: true
+  militaryClaimbuilds:
+    output: true
+  civilianClaimbuilds:
+    output: true
+  claimbuildComponents:
+    output: true
+  productionSites:
+    output: true
+  specialBuildings:
+    output: true
 
 # The Theme used for the wiki, can be changed anytime
 remote_theme: pages-themes/cayman@v0.2.0
