@@ -1,0 +1,12 @@
+---
+title: Staff
+---
+<h1>Staff</h1>
+
+<ul>
+  {% for staff in site.staffs %}
+    <li>
+      <h2>{{ staff.discord }}</h2>
+    </li>
+  {% endfor %}
+</ul>

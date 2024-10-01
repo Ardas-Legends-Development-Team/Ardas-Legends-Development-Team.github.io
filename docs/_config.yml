@@ -3,6 +3,63 @@ title: Arda´s Legends System Wiki
 author: Arda´s Legends Staff Team
 description: A wiki for the Arda´s Legends System
 
+# All collections we may use
+collections:
+  staff:
+    output: true
+  militaryClaimbuilds:
+    output: true
+  civilianClaimbuilds:
+    output: true
+  claimbuildComponents:
+    output: true
+  productionSites:
+    output: true
+  specialBuildings:
+    output: true
+
+# Front matter defaults
+defaults:
+  - scope:
+      path: ""
+      type: "staff"
+    values:
+      layout: "staff"
+  - scope:
+      path: ""
+      type: "civilianClaimbuilds"
+    values:
+      layout: "claimbuild"
+  - scope:
+      path: ""
+      type: "militaryClaimbuilds"
+    values:
+      layout: "claimbuild"
+  - scope:
+      path: ""
+      type: "claimbuildComponents"
+    values:
+      layout: "component"
+  - scope:
+      path: ""
+      type: "productionSites"
+    values:
+      layout: "component"
+  - scope:
+      path: ""
+      type: "specialBuilds"
+    values:
+      layout: "specialBuild"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 # The Theme used for the wiki, can be changed anytime
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
