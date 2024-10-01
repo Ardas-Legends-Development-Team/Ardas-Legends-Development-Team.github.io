@@ -1,2 +1,4 @@
 - name: Home
   link: /
+- name: Changelog
+  link: /changelog.html
