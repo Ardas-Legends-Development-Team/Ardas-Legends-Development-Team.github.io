@@ -7,8 +7,7 @@ title: Staff
 <ul>
   {% for staff in site.staffs %}
     <li>
-      <h2>Discord:{{ staff.discord }} IGN:{{ staff.ign  }}</h2>
-      <p>{{ staff.content | markdownify }}</p>
+      <h2>{{ staff.discord }}</h2>
     </li>
   {% endfor %}
 </ul>
