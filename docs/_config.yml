@@ -3,6 +3,11 @@ title: Arda´s Legends System Wiki
 author: Arda´s Legends Staff Team
 description: A wiki for the Arda´s Legends System
 
+# All collections we may use
+collections:
+  staff:
+    output: true
+
 # The Theme used for the wiki, can be changed anytime
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
