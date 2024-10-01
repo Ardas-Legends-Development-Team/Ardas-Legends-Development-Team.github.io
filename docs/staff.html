@@ -1,0 +1,14 @@
+---
+layout: default
+title: Staff
+---
+<h1>Staff</h1>
+
+<ul>
+  {% for staff in site.staffs %}
+    <li>
+      <h2>Discord:{{ staff.discord }} IGN:{{ staff.ign  }}</h2>
+      <p>{{ staff.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
