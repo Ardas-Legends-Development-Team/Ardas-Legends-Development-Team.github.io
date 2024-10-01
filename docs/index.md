@@ -1,5 +1,4 @@
 ---
-layout: default
 title: AL System Wiki
 ---
 Welcome to the Arda´s Legends System Wiki
