@@ -2,4 +2,4 @@
 layout: default
 title: Character Movement
 ---
-Lorem ipsum movement of characters
+Here we want to describe the rules of roleplay character movement in detail
