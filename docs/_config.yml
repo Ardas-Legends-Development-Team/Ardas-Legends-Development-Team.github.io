@@ -17,6 +17,8 @@ collections:
     output: true
   militaryClaimbuildComponents:
     output: true
+  walls:
+    output: true
   campComponents:
     output: true
   productionSites:
