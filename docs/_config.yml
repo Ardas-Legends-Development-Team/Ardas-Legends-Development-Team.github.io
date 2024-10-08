@@ -11,7 +11,13 @@ collections:
     output: true
   civilianClaimbuilds:
     output: true
-  claimbuildComponents:
+  camps:
+    output: true
+  residentialClaimbuildComponents:
+    output: true
+  militaryClaimbuildComponents:
+    output: true
+  campComponents:
     output: true
   productionSites:
     output: true
