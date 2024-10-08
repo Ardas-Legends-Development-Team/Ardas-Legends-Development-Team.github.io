@@ -6,9 +6,9 @@ A trading camp is established by a trading company.
 In order for a trading camp to be activated, a trading company is required to be stationed at it.
 
 ## Requirements
-- 8 small tents
-- 1 large tent
-- 3 transport carts
+- 8 [small tents](docs/_campComponents/smallTent.md)
+- 1 [large tent](docs/_campComponents/largeTent.md)
+- 3 [transport carts](docs/_campComponents/transportCart.md)
 - A trading company in the region of the trading camp
 
 ## Benefits
