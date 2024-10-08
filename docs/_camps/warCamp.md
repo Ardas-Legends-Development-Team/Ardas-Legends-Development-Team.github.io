@@ -5,10 +5,10 @@ name: War Camp
 A war camp is required to be build for any army, that is sieging an enemy build that has a wall.
 
 ## Requirements
-- 8 tents
-- 1 large tent
-- 3 transport carts
-- 1 forge tent
+- 8 [tents](/docs/_campComponents/smallTent.md)
+- 1 [large tent](/docs/_campComponents/largeTent.md)
+- 3 [transport carts](/docs/_campComponents/transportCart.md)
+- 1 [forge tent](/docs/_campComponents/forgeTent.md)
 - the siege equipment carried by the army
 - must be build within line of sight of the attacked claimbuild
 - may not be to close to the attacked claimbuild
