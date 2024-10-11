@@ -1,7 +1,7 @@
 ---
 name: Traps
 ---
-
+Traps are an optional way to help you defend your claimbuild.
 ## Requirements
 - All traps must leave a player at a minimum of 50% HP in one usage. Multi use traps like arrow traps or fire are not considered single use.
 - Displacement traps must allow for someone to escape. The affected player may not be pushed into an inescapable pit for example. Parkour escapes must be very easy.
