@@ -10,4 +10,4 @@ The place of power within your claimbuild.
 - A minimum of 3 decorative elements (light sources and large bookshelf do not count).
 
 ## Notes
-- Orc factions can substitute a government building with an orc fighting pit.
+- Orc factions can substitute a government building with an orc [fighting pit](/docs/_residentialClaimbuildComponents/fightingPits.md).
