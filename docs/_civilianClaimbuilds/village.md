@@ -8,8 +8,8 @@ A village is a more established settlment
 ## Requirements
 - 8 [small houses](/docs/_residentialClaimbuildComponents/house.md)
 - A [central meeting area](/docs/_residentialClaimbuildComponents/meetingArea.md)
-- 1 [food production site]
-- An [inn]
+- 1 [food production site](/)
+- An [inn](/docs/_residentialClaimbuildComponents/inn.md)
 - 1 additional production site or shop.
 
 ## Benefits
